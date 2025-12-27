@@ -1,4 +1,3 @@
-import React from "react";
 import { Color, skinColorMap, SkinColorString } from "./color";
 
 function ColorMask({maskID, color}: {maskID: string, color: Color}) {

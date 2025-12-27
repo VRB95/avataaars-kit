@@ -1,4 +1,3 @@
-import React, { useId } from 'react'
 import Cloth, { ClothType } from './cloth'
 import Face from './face'
 import { GraphicType } from './cloth/graphic'
@@ -10,6 +9,7 @@ import Skin from './Skin'
 import FacialHair, { FacialHairType } from './top/facialHair'
 import Accesories, { AccessoriesType } from './top/accessories'
 import Top, { TopType } from './top'
+import { useId } from 'react'
 
 export interface AvatarProps {
   backgroundColor?: ColorString
