@@ -1,7 +1,7 @@
 {
-  "name": "avataaars3",
-  "version": "1.0.0",
-  "author": "Vesa Raul Bogdan",
+  "name": "avataaars-kit",
+  "version": "1.0.3",
+  "authors": "Vesa Raul Bogdan",
   "license": "MIT",
   "keywords": [
     "react",

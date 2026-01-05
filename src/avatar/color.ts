@@ -4,7 +4,7 @@ type HEX = `#${string}`;
 
 export type Color = RGB | RGBA | HEX;
 
-type ColorMapType = {[key in string]: Color};
+type ColorMapType = { [key in string]: Color };
 
 export const colorMap = {
   'Black': '#262E33',
@@ -37,7 +37,7 @@ export const skinColorMap = {
 export const skinColorStringList = Object.keys(skinColorMap) as SkinColorString[];
 
 export const hairColorMap = {
-  'Auburn': '#A55728', 
+  'Auburn': '#A55728',
   'Black': '#2C1B18',
   'Blonde': '#B58143',
   'BlondeGolden': '#D6B370',

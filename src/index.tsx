@@ -14,8 +14,10 @@ export { eyeList } from "./avatar/face/eye";
 export { eyebrowList } from "./avatar/face/eyebrow";
 export { mouthList } from "./avatar/face/mouth";
 
+export { AvatarCatalog } from "./avatar/avatar-catalog";
+
 // types
-export { AvatarProps } from "./avatar"
+export { AvatarProps } from "./avatar";
 
 export { ColorString } from "./avatar/color";
 export { HairColorString } from "./avatar/color";
