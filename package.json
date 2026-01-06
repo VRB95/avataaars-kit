@@ -4,6 +4,10 @@
   "description": "Avataaars kit for building React avatars",
   "author": "Vesa Raul Bogdan",
   "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "react",
     "avatar",
