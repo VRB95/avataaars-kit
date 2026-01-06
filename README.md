@@ -1,5 +1,10 @@
 # avataaats-kit (or Avataaars3)
 
+[![Build](https://github.com/VRB95/avataaars-kit/actions/workflows/build.yml/badge.svg)](https://github.com/VRB95/avataaars-kit/actions/workflows/build.yml)
+[![npm version](https://img.shields.io/npm/v/avataaars-kit.svg)](https://www.npmjs.com/package/avataaars-kit)
+[![npm downloads](https://img.shields.io/npm/dm/avataaars-kit.svg)](https://www.npmjs.com/package/avataaars-kit)
+[![License](https://img.shields.io/npm/l/avataaars-kit.svg)](LICENSE)
+
 Maintained by **Vesa Raul Bogdan (2025)**.  
 This project is a **community fork** migrated to **React 19**.  
 **Not the original creator** of Avataaars or Avataaars2.
