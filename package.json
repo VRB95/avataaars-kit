@@ -1,14 +1,27 @@
 {
   "name": "avataaars-kit",
-  "version": "1.0.3",
-  "authors": "Vesa Raul Bogdan",
+  "version": "1.0.4",
+  "description": "Avataaars kit for building React avatars",
+  "author": "Vesa Raul Bogdan",
   "license": "MIT",
   "keywords": [
     "react",
-    "avatar"
+    "avatar",
+    "avataaars"
   ],
+  "homepage": "https://github.com/VRB95/avataaars-kit#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VRB95/avataaars-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VRB95/avataaars-kit/issues"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc -p tsconfig.json"
   },
@@ -25,8 +38,6 @@
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.2.3",
     "jest": "^28.1.2",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
     "typescript": "^5.5.0"
   }
 }
